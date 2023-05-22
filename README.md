@@ -9,8 +9,10 @@ A Weather Application developed with Reactjs using OpenWeatherAPI allows you to 
 
 
 # Getting Started
-Click the demo link or clone/download the repository on your local machine.  
+Click the demo link or clone/download the repository on your local machine. 
+```bash
 git clone [https://github.com/kundank02/WeatherApp.git](https://github.com/kundank02/WeatherApp.git)
+```
 
 ### Install dependencies
 
