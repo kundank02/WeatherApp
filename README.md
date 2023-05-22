@@ -6,6 +6,7 @@ A Weather Application developed with Reactjs using OpenWeatherAPI allows you to 
 [WeatherApp]()
 
 # Screenshots
+![image](https://github.com/kundank02/WeatherApp/assets/57480481/b76dc342-f820-4667-b603-fbd0d5907152)
 
 
 # Getting Started
